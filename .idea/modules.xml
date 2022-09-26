@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_BackgroundWorker.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_BackgroundWorker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_BackgroundWorker.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.iml" filepath="$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.main.iml" filepath="$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/benchmark/Android_BackgroundWorker.benchmark.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Android_BackgroundWorker.lib.unitTest.iml" />
+    </modules>
+  </component>
+</project>
